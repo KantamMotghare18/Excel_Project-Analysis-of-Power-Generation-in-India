@@ -1,52 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Excel_Project-Analysis-of-Power-Generation-in-India</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        header {
-            background-color: #007bff;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-        }
-
-        main {
-            padding: 20px;
-        }
-
-        h1,
-        h2,
-        h3 {
-            color: #007bff;
-        }
-
-        p {
-            margin-bottom: 20px;
-        }
-
-        ol {
-            margin-left: 20px;
-        }
-
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
 
 <body>
     <header>
